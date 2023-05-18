@@ -9,3 +9,9 @@ This repository contains the code and results of an exploratory data analysis (E
 4.What time should we display advertisements to maximize the likelihood of customer’s buying product?
 5.What Products are most often sold together ?
 6.What are the factors that influence sales?
+Approach :--
+🏬 This Dataset Contain Vrinda Store 2022 Data informations.
+🏬 Understanding the dataset.
+🏬 Data Cleaning and Created some Formuals and Pivot Tables and charts & Graphs.
+🏬 Creating business questions.
+
